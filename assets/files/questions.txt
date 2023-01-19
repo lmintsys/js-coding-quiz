@@ -1,0 +1,19 @@
+Commonly used data types do NOT include:
+Strings, Booleans, Alerts, Numbers
+Alerts
+
+The condition in an if/else statement is enclosed in:
+Quotes, Parentheses, Curly Brackets, Square Brackets
+Parentheses
+
+Arrays in JavaScript can be used to store:
+Numbers and Strings, Other Arrays, Booleans, All of the Above
+All of the Above
+
+String values must be enclosed within __________ when being assigned to variables:
+Commas, Curly Brackets, Quotes, Parentheses
+Quotes
+
+A very useful tool used during development and debugging for printing content to the debugger is:
+JavaScript, Terminal Bash, for loops, console.log
+console.log
